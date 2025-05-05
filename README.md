@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aghil 
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning BCA AND AI & ML
+- 🌱 I’m completed BCA AND AI & ML
+- Currently studying MSC. Computer Science
 - 💞️ I’m looking to collaborate on programming 
 - 📫 How to reach me 9074913963
 
